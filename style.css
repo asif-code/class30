@@ -1,0 +1,10 @@
+#navbar {
+    background-color: darkblue !important;
+}
+
+#hero {
+    background-image: url(hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
